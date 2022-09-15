@@ -6,5 +6,5 @@ data class Repo(
     val url: String,
     val description: String,
     val topics: List<String>,
-    val stars: Int
+    val stargazers_count: String
 )
