@@ -1,4 +1,4 @@
-package com.imashnake0.retrogit.ui.theme
+package com.imashnake0.retrogit.features.theme
 
 import androidx.compose.ui.graphics.Color
 
